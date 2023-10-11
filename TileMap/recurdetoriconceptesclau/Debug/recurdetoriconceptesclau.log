@@ -1,0 +1,114 @@
+﻿  main.cpp
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(25,61): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(25,45): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(26,65): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(26,49): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(27,71): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(27,51): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(28,67): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(28,45): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(31,64): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(31,47): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(32,70): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(32,53): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(33,76): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(33,53): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(34,70): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\AluCiclesGS2\m17\2D\TileMap\recurdetoriconceptesclau\TileMap.hpp(34,47): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  recurdetoriconceptesclau.vcxproj -> E:\AluCiclesGS2\m17\2D\TileMap\Debug\recurdetoriconceptesclau.exe
